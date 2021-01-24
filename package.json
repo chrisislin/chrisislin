@@ -5,8 +5,10 @@
   "main": "webpack.config.js",
   "author": "Mark Macneil",
   "license": "MIT",
+  "homepage": "http://chrisislin.github.io/devportfolio",
   "scripts": {
-    "build": "webpack --mode production"
+    "build": "webpack --mode production",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "bulma": "^0.8.2",
