@@ -1,3 +1,4 @@
+delete gh-pages branch first
 git subtree push --prefix dist origin gh-pages
 
 # devfolio
