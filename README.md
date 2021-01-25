@@ -1,4 +1,4 @@
-For production
+# For production for my eyes only
 delete gh-pages branch first
 git subtree push --prefix dist origin gh-pages
 
